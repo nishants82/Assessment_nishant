@@ -1,0 +1,5 @@
+Change Management and Release Management are different but related functions within organizations. 
+At a high level, Change activities relate to the process of requesting changes, assessing changes,
+authorizing changes and reviewing changes. Release activities include planning, designing, configuration,
+rollout planning, testing communication and deployment. The Release Management function provides the schedule and execution whilst 
+the Change Approval Board authorizes the change to controlled environments.
